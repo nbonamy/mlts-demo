@@ -2,8 +2,8 @@
   "name": "mlts-demo",
   "version": "1.0.0",
   "description": "",
-  "license": "ISC",
-  "author": "",
+  "license": "Apache-2.0",
+  "author": "Nicolas Bonamy <nicolas@bonamy.fr>",
   "type": "module",
   "main": "index.ts",
   "scripts": {
@@ -11,6 +11,6 @@
   },
   "dependencies": {
     "dotenv": "^17.2.3",
-    "multi-llm-ts": "^4.4.4"
+    "multi-llm-ts": "^4.5.0"
   }
 }
