@@ -3,7 +3,6 @@ import * as llm from 'multi-llm-ts'
 
 export default class ReadFilePlugin extends llm.Plugin {
 
-
   getName(): string {
     return "ReadFilePlugin"
   }
